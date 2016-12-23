@@ -7,7 +7,7 @@
 package argon2
 
 // #include <stdlib.h>
-// #include "phc-winner-argon2/include/argon2.h"
+// #include "libargon2/include/argon2.h"
 import "C"
 
 import (
