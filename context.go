@@ -1,7 +1,6 @@
 package argon2
 
-// #cgo CFLAGS: -I/usr/include
-// #include <argon2.h>
+// #include "phc-winner-argon2/include/argon2.h"
 // #include "wrapper.h"
 import "C"
 
