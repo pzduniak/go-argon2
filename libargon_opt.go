@@ -1,3 +1,5 @@
+// +build amd64 386
+
 package argon2
 
 // #cgo CFLAGS: -I${SRCDIR}/libargon2/include
